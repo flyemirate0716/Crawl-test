@@ -1,0 +1,20 @@
+{
+  "dashboard": "Dashboard",
+  "products": "Product List",
+  "profile": "Profile",
+  "logout": "Logout",
+  "firstname": "Firstname",
+  "lastname": "Lastname",
+  "english": "English",
+  "spanish": "Spanish",
+  "catalan": "Catalan",
+  "setting": "Setting",
+  "profileSetting": "PROFILE SETTING",
+  "languageAndTimezone": "LANGUAGE AND TIMEZONE",
+  "languageSetting": "Language Setting",
+  "timezoneSetting": "Timezone Setting",
+  "currentLanguage": "Current Language",
+  "addPreferredLanguage": "Add preferred languages",
+  "currentDateTime": "Current date and time",
+  "pleaseSelectTimezone": "Choose timezone"
+}

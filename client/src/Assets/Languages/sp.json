@@ -1,0 +1,20 @@
+{
+  "dashboard": "Tablero",
+  "products": "Lista de productos",
+  "profile": "Perfil",
+  "logout": "Cerrar sesión",
+  "firstname": "Nombre de pila",
+  "lastname": "Apellido",
+  "english": "Inglés",
+  "spanish": "Española",
+  "catalan": "Catalana",
+  "setting": "Ajuste",
+  "profileSetting": "AJUSTES DE PERFIL",
+  "languageAndTimezone": "IDIOMA Y ZONA HORARIA",
+  "languageSetting": "Configuración de idioma",
+  "timezoneSetting": "Configuración de zona horaria",
+  "currentLanguage": "dioma actual",
+  "addPreferredLanguage": "Agregar idiomas preferidos",
+  "currentDateTime": "Fecha y hora actual",
+  "pleaseSelectTimezone": "Elige zona horaria"
+}

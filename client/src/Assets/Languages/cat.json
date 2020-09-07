@@ -1,0 +1,20 @@
+{
+  "dashboard": "Panell",
+  "products": "Llista de productes",
+  "profile": "Perfil",
+  "logout": "Desconnecta",
+  "firstname": "Nom",
+  "lastname": "Cognom",
+  "english": "Anglès",
+  "spanish": "Castellà",
+  "catalan": "Català",
+  "setting": "Ambientació",
+  "profileSetting": "CONFIGURACIÓ DEL PERFIL",
+  "languageAndTimezone": "IDIOMA I FUSA HORARIA",
+  "languageSetting": "Configuració d'idioma",
+  "timezoneSetting": "Configuració de la zona horària",
+  "currentLanguage": "Idioma actual",
+  "addPreferredLanguage": "Afegiu idiomes preferits",
+  "currentDateTime": "Data i hora actuals",
+  "pleaseSelectTimezone": "Trieu la zona horària"
+}
